@@ -11,8 +11,12 @@
             "id": "3dbc19fab95fdfca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,6 +124,14 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "98cd816e81e2285b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -136,17 +147,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "publish:Publish changes": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3dbc19fab95fdfca",
+  "active": "1d23f9d9c8b45051",
   "lastOpenFiles": [
-    "README.md",
-    "Excerpt from Mother of All Demos (1968).ogg.md",
-    "Pasted image 20230406234404.png",
+    "Excalidraw/Drawing 2023-04-07 00.24.22.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-07 00.29.27.excalidraw.md",
     "Test.md",
+    "Excerpt from Mother of All Demos (1968).ogg.md",
     "Document.pdf.md",
-    "test graph.canvas",
-    "2023-04-06.md"
+    "202304070029.md",
+    "Recording 20230407002856.webm",
+    "Recording 20230407002816.webm",
+    "2023-04-06.md",
+    "Excalidraw",
+    "README.md",
+    "Pasted image 20230406234404.png",
+    "test graph.canvas"
   ]
 }

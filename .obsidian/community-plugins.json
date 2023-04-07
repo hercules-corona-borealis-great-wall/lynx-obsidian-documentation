@@ -1,3 +1,9 @@
 [
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-git",
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin",
+  "convert-url-to-iframe",
+  "calendar",
+  "obsidian-admonition"
 ]
