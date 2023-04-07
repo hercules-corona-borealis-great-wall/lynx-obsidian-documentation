@@ -1,40 +1,35 @@
 {
   "main": {
-    "id": "ecd7ee7af9217a03",
+    "id": "0ac0f8d994e07605",
     "type": "split",
     "children": [
       {
-        "id": "29ffe80e3b96aaa5",
+        "id": "0929eb270611c0d8",
         "type": "tabs",
         "children": [
           {
-            "id": "c4d022083131b2cb",
+            "id": "716cbba7144de671",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7ced722964c0d575",
+    "id": "ea9d72ea4927866e",
     "type": "split",
     "children": [
       {
-        "id": "98815cf12f50823b",
+        "id": "b1be7631e7564eee",
         "type": "tabs",
         "children": [
           {
-            "id": "1d23f9d9c8b45051",
+            "id": "98d1cc0e7da42734",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +39,7 @@
             }
           },
           {
-            "id": "5b1d3ecb8e00773e",
+            "id": "cf13dea1a05f594c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +54,7 @@
             }
           },
           {
-            "id": "0c5812f7a489e786",
+            "id": "d9924bf1010803a3",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -73,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "ad0a93da77626427",
+    "id": "78b8088baabd31fc",
     "type": "split",
     "children": [
       {
-        "id": "8878a3447ecfc927",
+        "id": "632f9e44b94165dd",
         "type": "tabs",
         "children": [
           {
-            "id": "4ea3a39f975fe494",
+            "id": "3b265a386aed867b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +92,18 @@
             }
           },
           {
-            "id": "d51f501a2898b6fa",
+            "id": "8478e708a548e4cb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "393283189c9f6e58",
+            "id": "dc64d9365889ad4f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,17 +114,14 @@
             }
           },
           {
-            "id": "67878f27a8c620b9",
+            "id": "19ab7b86320f7b03",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,12 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4d022083131b2cb",
-  "lastOpenFiles": [
-    "Untitled.md",
-    "test graph.canvas",
-    "Untitled.canvas",
-    "2023-04-06.md",
-    "README.md"
-  ]
+  "active": "716cbba7144de671",
+  "lastOpenFiles": []
 }
