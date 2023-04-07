@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"eae07067eac816aa","x":-200,"y":-160,"width":145,"height":50,"color":"1","type":"text","text":"Inventory sys"},
-		{"id":"876d5da35a63b00b","x":-297,"y":0,"width":97,"height":50,"color":"5","type":"text","text":"Stock"}
+		{"type":"text","text":"Inventory sys","id":"eae07067eac816aa","x":-200,"y":-160,"width":160,"height":50,"color":"1"},
+		{"type":"text","text":"Stock","id":"876d5da35a63b00b","x":-297,"y":0,"width":97,"height":50,"color":"5"}
 	],
 	"edges":[
 		{"id":"63f499d995eecec6","fromNode":"eae07067eac816aa","fromSide":"bottom","toNode":"876d5da35a63b00b","toSide":"top"}
