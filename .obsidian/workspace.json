@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "92f54320e5a28d7a",
+        "id": "29ffe80e3b96aaa5",
         "type": "tabs",
         "children": [
           {
-            "id": "3dbc19fab95fdfca",
+            "id": "c4d022083131b2cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "528c52283ab042e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workflow/Workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Workflow/Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Workflow/Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,18 +138,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Workflow/Workflow.md"
+              }
             }
           },
           {
-            "id": "98cd816e81e2285b",
+            "id": "9b3f90ee33e96f6a",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,29 +167,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "publish:Publish changes": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1d23f9d9c8b45051",
+  "active": "528c52283ab042e1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-04-07 00.24.22.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-07 00.29.27.excalidraw.md",
     "Test.md",
+    "Workflow/Workflow.md",
+    "Workflow",
+    "test graph.canvas",
+    "Excalidraw/Drawing 2023-04-07 00.24.22.excalidraw.md",
+    "README.md",
+    "Recording 20230407002856.webm",
+    "Pasted image 20230406234404.png",
     "Excerpt from Mother of All Demos (1968).ogg.md",
+    "Excalidraw",
     "Document.pdf.md",
     "202304070029.md",
-    "Recording 20230407002856.webm",
-    "Recording 20230407002816.webm",
-    "2023-04-06.md",
-    "Excalidraw",
-    "README.md",
-    "Pasted image 20230406234404.png",
-    "test graph.canvas"
+    "Untitled.md",
+    "Untitled.canvas",
+    "2023-04-06.md"
   ]
 }
