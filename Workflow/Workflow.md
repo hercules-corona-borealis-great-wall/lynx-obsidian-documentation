@@ -1,3 +1,7 @@
+Client/Product owner/Project manager/Marketing/CEO/CTO
+Requirements gathering
+Proposal
+
 Product owner/Project manager/Design team/Analisis team/Marketing/Architecture
 Preview analisis
 Design analisis
@@ -8,18 +12,18 @@ Document process
 Document tools
 Document analisis
 
-/Developers
+Developers
 Execute task
 Review tasks
 Approved tasks
 Tests of tasks
 
-/QA team
+QA team
 QA testing Business logic
 QA testing client
 QA testing services
 
-/DevOps team
+DevOps team
 Deploy dev
 Deploy qa
 Deploy demo/staging
