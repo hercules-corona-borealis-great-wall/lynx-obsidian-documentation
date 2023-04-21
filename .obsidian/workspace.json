@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29ffe80e3b96aaa5",
+        "id": "92f54320e5a28d7a",
         "type": "tabs",
         "children": [
           {
-            "id": "c4d022083131b2cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "528c52283ab042e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workflow/Workflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "365f44fd06cf7ee9",
+            "id": "203de23b2c293ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,10 +18,46 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33bf844c192cfc92",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Analysis/Brain storming.md"
+              }
+            }
           }
         ],
-        "currentTab": 2,
-        "stacked": true
+        "currentTab": 1
+      },
+      {
+        "id": "94ac882bf4dc3920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e0819d003e36245",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Analysis/Bounded context.md"
+              }
+            }
+          },
+          {
+            "id": "955afdaa1b27f3c5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Analysis/Event storming.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Sistema de inventarios.md",
+                "file": "Analysis/Event storming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/Sistema de inventarios.md",
+                "file": "Analysis/Event storming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,20 +163,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Sistema de inventarios.md"
+                "file": "Analysis/Event storming.md"
               }
             }
           },
           {
-            "id": "9b3f90ee33e96f6a",
+            "id": "98cd816e81e2285b",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,28 +190,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "365f44fd06cf7ee9",
+  "active": "1d23f9d9c8b45051",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Analysis/Bounded context.md",
+    "Analysis/Event storming.md",
+    "Analysis/Brain storming.md",
     "Ideas/Sistema de inventarios.md",
-    "Ideas",
-    "Workflow/Workflow.md",
-    "Test.md",
-    "Workflow",
-    "test graph.canvas",
-    "Excalidraw/Drawing 2023-04-07 00.24.22.excalidraw.md",
     "README.md",
-    "Recording 20230407002856.webm",
-    "Pasted image 20230406234404.png",
-    "Excerpt from Mother of All Demos (1968).ogg.md",
+    "Pasted Image 20230420220812_644.png",
+    "Pasted Image 20230420220542_600.png",
+    "Analysis/Untitled.md",
+    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md",
+    "Excalidraw/Scripts/Downloaded/Fixed inner distance.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed inner distance.md",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.md",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
+    "Excalidraw/Scripts/Downloaded/Folder Note Core - Make Current Drawing a Folder.svg",
+    "Excalidraw/Scripts/Downloaded/Folder Note Core - Make Current Drawing a Folder.md",
+    "Excalidraw/Scripts/Downloaded/Grid Selected Images.svg",
+    "Excalidraw/Scripts/Downloaded/Grid Selected Images.md",
+    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.svg",
+    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md",
+    "Excalidraw/Scripts/Downloaded/Invert colors.md",
+    "Excalidraw/Scripts/Downloaded/Lighten background color.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line.md",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md",
+    "Excalidraw/Scripts/Downloaded/Rename Image.md",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
+    "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
+    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
     "Excalidraw",
-    "Document.pdf.md",
-    "202304070029.md",
-    "Untitled.canvas",
-    "2023-04-06.md"
+    "Recording 20230407002856.webm",
+    "test graph.canvas",
+    "Workflow",
+    "Ideas",
+    "Recording 20230407002816.webm",
+    "Analysis"
   ]
 }

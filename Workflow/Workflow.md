@@ -1,6 +1,7 @@
 Client/Product owner/Project manager/Marketing/CEO/CTO
 Requirements gathering
 Proposal
+Sessions of brainstorming and eventstorming (mapping and document)
 
 Product owner/Project manager/Design team/Analisis team/Marketing/Architecture
 Preview analisis
