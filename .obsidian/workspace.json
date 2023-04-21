@@ -4,60 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "92f54320e5a28d7a",
+        "id": "fd14ef039b5fbf27",
         "type": "tabs",
         "children": [
           {
-            "id": "203de23b2c293ed2",
+            "id": "90784a94f8102e68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas/Sistema de inventarios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33bf844c192cfc92",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Analysis/Brain storming.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "94ac882bf4dc3920",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2e0819d003e36245",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Analysis/Bounded context.md"
-              }
-            }
-          },
-          {
-            "id": "955afdaa1b27f3c5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Analysis/Event storming.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Event storming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Event storming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Analysis/Event storming.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,12 +148,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d23f9d9c8b45051",
+  "active": "90784a94f8102e68",
   "lastOpenFiles": [
+    "Ideas/Sistema de inventarios.md",
+    "Analysis/Brain storming.md",
     "Analysis/Bounded context.md",
     "Analysis/Event storming.md",
-    "Analysis/Brain storming.md",
-    "Ideas/Sistema de inventarios.md",
     "README.md",
     "Pasted Image 20230420220812_644.png",
     "Pasted Image 20230420220542_600.png",
